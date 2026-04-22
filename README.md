@@ -5,16 +5,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xush kelibsiz</title>
+    <title>siz</title>
     <style>
-        /* Sahifa ko'rinishini sozlash */
+        /* Sahifa */
         body {
             margin: 0;
             padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh; /* Ekranning to'liq bo'yi */
+            height: 100vh; /* E */
             background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); /* Chiroyli ranglar */
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             color: white;
@@ -51,7 +51,7 @@
 </head>
 <body>
 
-    <h1>Yozib turinglar</h1>
+    <h1>Yozib turinglo</h1>
 
 </body>
 </html>
